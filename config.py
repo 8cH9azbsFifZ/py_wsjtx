@@ -17,7 +17,7 @@ notify_alert = True
 # publish messages to an MQTT server
 # (requires paho library)
 use_mqtt = True
-mqtt_server = "192.168.0.12"
+mqtt_server = "127.0.0.1"
 
 # locator for distance / bearing
 locator = "io64"

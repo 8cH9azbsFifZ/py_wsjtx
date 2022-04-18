@@ -6,3 +6,4 @@ ADD . /app
 
 
 RUN pip install -r requirements.txt
+RUN apt-get -y install gir1.2-notify
